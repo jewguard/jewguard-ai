@@ -1,2 +1,3 @@
 # jewguard-ai
-JewGuard AI API Docs
+
+https://discord.gg/a76HUrH7n7
